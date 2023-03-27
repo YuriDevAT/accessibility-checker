@@ -4,24 +4,8 @@ This project is for our Digital Humanities lecture Data Models and Data structur
 
 We are currently in the initial phase of our project.
 
-##Potential Websites 
-- 
-- 
--
+## Aim of this project
 
-## Goal
+Analyse different kind of DH websites on their accessibility, show off their problems and provide tips on how to make them more accessible.
 
-- analyse DH websites on their accessibility
-- show problems
-- provide tips on how to make it more accessible
-
-## Testing Tools (Browser Extensions)
-
-- Deque axe DevTools
-- Wave
-- Google Lighthouse
-- Taba11y
-- High Contrast
-- Web Developer
-- Landmarks
-- Tota11y
+To get further information on the project itself, the setup and how we are going to collaborate check out the [wiki section](https://github.com/YuriDevAT/accessibility-checker/wiki) within this project.
