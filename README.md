@@ -4,6 +4,11 @@ This project is for our Digital Humanities lecture Data Models and Data structur
 
 We are currently in the initial phase of our project.
 
+##Potential Websites 
+- 
+- 
+-
+
 ## Goal
 
 - analyse DH websites on their accessibility
