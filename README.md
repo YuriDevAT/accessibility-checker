@@ -4,6 +4,8 @@ This project is for our Digital Humanities lecture Data Models and Data structur
 
 We are currently in the initial phase of our project.
 
+**Progress:** Follow the progress looking at the [KanBan View](https://github.com/users/YuriDevAT/projects/12/views/1) or the [Roadmap View](https://github.com/users/YuriDevAT/projects/12/views/4) in this repositories projects section.
+
 ## Aim of this project
 
 Analyse different kind of DH websites on their accessibility, show off their problems and provide tips on how to make them more accessible.
